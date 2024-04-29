@@ -19,12 +19,15 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 
 ## 🌐 Get in Touch
 
-📫 Feel free to reach out to me via [email](mailto:arpanendu2403@gmail.com) or connect with me on 
+📫 Feel free to reach out to me via   <a href="mailto:arpanendu2403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="arpanendu2403@gmail.com" height="18" width="50" />
+  </a> or connect with me on 
 
 <p align="left">
-<a href="https://linkedin.com/in/arpanendu khag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpanendu khag" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@arpanendu2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arpanendu2403" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpanendu khag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpanendu khag" height="20" width="35" /></a>
+<a href="https://www.hackerrank.com/@arpanendu2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arpanendu2403" height="20" width="35" /></a>
 </p>
+
 
 ## 💻 Tech Stack:
 
@@ -34,16 +37,12 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 
     
 ## 🐍 My Contributions 🐍
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpanendukhag/arpanendukhag/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://git.io/streak-stats)
@@ -54,9 +53,6 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanendukhag&layout=donut-vertical&&hide=HTML&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arpanendukhag/github-readme-stats)
 
 </div>
-
-<br/><br/>
-
 <hr/>
 
 
