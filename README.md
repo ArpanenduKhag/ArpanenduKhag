@@ -54,7 +54,7 @@ I'm a third-year Computer Science Engineering student at BCREC (Dr. B.C Roy Engi
     
 ![Arpanendukhag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanendukhag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanendukhag&layout=donut-vertical&&hide=HTML&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arpanendukhag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanendukhag&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arpanendukhag/github-readme-stats)
 
 </div>
 <hr/>
