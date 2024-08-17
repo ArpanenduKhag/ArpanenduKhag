@@ -4,12 +4,7 @@
 
 ## 🧑‍🎓 About Me
 
-              Passionate about Computer Science Engineering, student at Dr. B.C.
-              Roy Engineering College (BCREC) with a strong foundation in both
-              classical problem-solving and modern project development. My work
-              is fueled by creativity and a commitment to innovation, enabling
-              me to approach challenges with a fresh perspective and deliver
-              impactful, lasting solutions.
+Passionate about Computer Science Engineering, student at Dr. B.C. Roy Engineering College (BCREC) with a strong foundation in both classical problem-solving and modern project development. My work is fueled by creativity and a commitment to innovation, enabling me to approach challenges with a fresh perspective and deliver impactful, lasting solutions.
 
 ## 🔭 What I Do
 
