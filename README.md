@@ -8,7 +8,7 @@ Passionate about Computer Science Engineering, student at Dr. B.C. Roy Engineeri
 
 ## 🔭 What I Do
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="250" src="https://tse2.mm.bing.net/th/id/OIP.gReLR6hZjwyBxHmfLN1AVwHaFj?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3">
 
 - **Problem Solver:** I thrive on solving complex problems by applying classical strategies in unique and creative ways.
 - **Engineering Student:** Currently pursuing my Bachelor's in Computer Science Engineering at BCREC.
